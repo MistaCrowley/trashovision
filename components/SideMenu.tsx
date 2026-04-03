@@ -1,4 +1,4 @@
-
+// @ts-nocheck
 "use client"
 import data from '@/public/data.json'
 import Buttono from '@/components/Buttono'

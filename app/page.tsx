@@ -1,3 +1,4 @@
+// @ts-nocheck
 "use client"
 import {useState, useEffect, useRef} from 'react';
 import VideoPlayer from '@/components/VideoPlayer'

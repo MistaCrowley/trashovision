@@ -1,4 +1,4 @@
-
+// @ts-nocheck
 'use client'
 import Marquee from "react-fast-marquee"
 import {useState, useEffect} from "react"

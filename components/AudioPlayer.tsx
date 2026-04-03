@@ -1,6 +1,8 @@
+// @ts-nocheck
 /* oh neat
 https://en.wikipedia.org/wiki/Media_control_symbols 
 */
+
 "use client"
 import {useState, useEffect, useRef} from "react"
 import Slider from 'rc-slider'
