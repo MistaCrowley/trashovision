@@ -24,3 +24,4 @@ export default function Scrollo({texts}: ScrolloProps){
 			</Marquee>
 		</div>
 	)
+}
