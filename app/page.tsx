@@ -55,14 +55,18 @@ export default function Home() {
   }
   const hideMenu = () => {
     if (menuShown) {
-        menuRef.current.style.transform = 'translate(9vw, 0px)';
-        menuRef.current.style.transition = 'all 0.3s ease';
+        if (menuRef.current) {
+          menuRef.current.style.transform = 'translate(9vw, 0px)';
+          menuRef.current.style.transition = 'all 0.3s ease';
+        }
         setMenuShown(false)
     }
   }
   const showThatMenu = () => {
+        if (menuRef.current) {
         menuRef.current.style.transform = 'translate(0vw, 0px)';
         menuRef.current.style.transition = 'all 0.3s ease';  
+        }
         setMenuShown(true)
   }
 
