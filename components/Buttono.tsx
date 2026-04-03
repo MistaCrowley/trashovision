@@ -36,6 +36,7 @@ export default function Buttony({texts, doMarquee=false}: ButtonyProps){
 				  bg-[rgba(255,200,255,0.5)]
 				  text-gray-800
 				  font-bold
+				  !text-[0.85vw]
 				  w-[7vw]
 				  h-[4vh]
 				  py-[0vh]
