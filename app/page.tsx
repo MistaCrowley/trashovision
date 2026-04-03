@@ -4,7 +4,7 @@ import VideoPlayer from '@/components/VideoPlayer'
 import SideMenu from '@/components/SideMenu'
 
 
-export default function Home( {children} ) {
+export default function Home() {
   const [currentVid, setCurrentVid] = useState("psycho_tunnel.mp4")
   const [showMenu, setShowMenu] = useState(true)
   //const [menuLeft, setMenuLeft] = useState("-8vh")
