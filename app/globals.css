@@ -68,6 +68,6 @@ button {
 
 /* Firefox */
 * {
-  scrollbar-width: thin; /* Options: auto, thin, none */
+  scrollbar-width: auto; /* Options: auto, thin, none */
   scrollbar-color: #d0d #000; /* thumb color | track color */
 }

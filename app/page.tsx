@@ -89,7 +89,7 @@ export default function Home() {
     <div className=" absolute top-0
       w-[100vw] h-[100vh] 
     ">
-      <h1> TRASH-O-VISION </h1>
+      <h1></h1>
       <div className="absolute top-0 w-full h-full">
           <div className={`absolute z-60 left-[88vw] w-[13vw] h-[5vh]
             grid grid-cols-200 pointer-events-none`}
