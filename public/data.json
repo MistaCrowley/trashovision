@@ -1,0 +1,130 @@
+{
+	"video":
+	{
+		"tgGrain": {
+			"title":"TGODZ Desert",
+			"filename":"tgSigil_grain.mp4",
+			"music":false
+		},
+		"psychotunnel": {
+			"title":"Psycho Tunnel",
+			"filename":"psycho_tunnel.mp4",
+			"music":false
+			},
+		"meatmachine": {
+			"title":"Meat Machine",
+			"filename":"meat_machine.mp4",
+			"music":false
+			},
+		"nopenopenope": {
+			"title":"Nope Nope Nope",
+			"filename":"nope_nope_nope.mp4",
+			"music":false
+			},
+		"girlboss":{
+			"title":"Girl Guignol",
+			"filename":"girlboss_guignol.mp4",
+			"music":false
+		},
+		"meanblobby": {
+			"title": "Slop Mk II",
+			"filename":"mean_blobby_evangiline.mp4",
+			"music":false
+		},
+		"glitchhill":{
+			"title":"G. Hill Zone",
+			"filename":"glitch_hill_zone.mp4",
+			"music":false
+		},
+		"geeka":{
+			"title":"Geeka Flreeka",
+			"filename":"geeka_flreeka.mp4",
+			"music":false
+		},
+		"stupidangel": {
+			"title": "Chayyliel",
+			"filename":"stupid_angel1.mp4",
+			"music":false
+		},
+		"thaimutant":{
+			"title": "Thai Mutante",
+			"filename":"thai_mutantes.mp4",
+			"music":false
+		},
+		"staysick": {
+			"title": "Stay Sick",
+			"filename":"stay_sick.mp4",
+			"music":false
+		},
+		"grinder": {
+			"title": "Grinder",
+			"filename":"grinder.mp4",
+			"music":false
+		},
+		"factory": {
+			"title": "Bad Place",
+			"filename":"nightmare_factory.mp4",
+			"music":false
+		},
+		"slimewall":{
+			"title":"Slime Wall",
+			"filename":"slime_wall.mp4",
+			"music":false
+		}
+	},
+	"audio":
+	{
+		"occularstench": {
+			"title":"Occular Stench",
+			"filename":"occular_stench.mp3"
+		},
+		"iloveai": {
+			"title":"I Love AI",
+			"filename":"i_love_ai.mp3"
+		},
+		"neuromanticdissector": {
+			"title":"Neuromantic Dissector",
+			"filename":"neuromantic_dissector.mp3"
+		},
+		"midnighttrashtrainleviathan": {
+			"title":"Midnight Trash Train Leviathan",
+			"filename":"midnight_trash_train_leviathan.mp3"
+		},
+		"themortalcoilshuffle":{
+			"title":"The Mortal Coil Shuffle",
+			"filename":"the_mortal_coil_shuffle.mp3"
+		},
+		"animo":{
+			"title":"Animo Pharmaceutico",
+			"filename": "animo_pharmaceutico.mp3"
+		},
+		"barber":{
+			"title":"Barbershop's Closed",
+			"filename":"barbershops_closed.mp3"
+		},
+		"cookin":{
+			"title":"Cookin Wit Crystal",
+			"filename":"cookin_wit_crystal.mp3"
+		},
+		"philly":{
+			"title":"The Philadelphia Experiment Was An Inside Job",
+			"filename":"the_philadelphia_experiment_was_an_inside_job.mp3"
+		},
+		"lobster":{
+			"title":"The Sinking Of The Titanic Retold By A Lobster Boiling In A Pot In The Kitchen When The Iceberg Hit",
+			"filename":"the_sinking_of the_titanic_retold_by_a_lobster_boiling_in_a_pot_in_the_kitchen_when_the_iceberg_hit.mp3"		
+		},
+		"ward13": {
+			"title":"Ward 13",
+			"filename":"ward_13.mp3"
+		},
+		"godintrash": {
+			"title":"God Is In The Trash",
+			"filename":"god_is_in_the_trash.mp3"
+		},
+		"xuxa": {
+			"title":"XUXA",
+			"filename":"xuxa.mp3"
+		}
+	}
+}
